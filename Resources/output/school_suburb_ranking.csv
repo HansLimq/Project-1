@@ -1,0 +1,100 @@
+Number,Suburb,School_Name,Rank,PerAnnumGrowth
+0,EAST MELBOURNE,Mac.Robertson Girls' High School,1,6.5
+1,SOUTH YARRA,Melbourne High School,2,5.9
+2,BERWICK,Nossal High School,3,6.6
+3,CLAYTON,John Monash Science School Monash University,4,6.1
+4,WERRIBEE,Suzanne Cory High School,5,7.0
+5,MCKINNON,McKinnon Secondary College,6,6.9
+6,BRAYBROOK,Braybrook College,7,5.3
+7,PRESTON,Preston High School,8,6.2
+8,BALWYN NORTH,Balwyn High School,9,6.8
+9,DONCASTER EAST,East Doncaster Secondary College,10,7.5
+10,CORRYONG,Corryong College,11,6.8
+11,RICHMOND,Melbourne Girls' College,12,4.3
+12,PARKVILLE,University High School,13,7.5
+13,GLEN WAVERLEY,Glen Waverley Secondary College,14,7.4
+14,SOUTH MELBOURNE,Victorian College of the Arts,15,4.7
+15,CANTERBURY,Canterbury Girls Secondary College,16,5.2
+16,WILLIAMSTOWN,Williamstown High School,17,5.6
+17,APOLLO BAY,Apollo Bay P-12 College,18,9.1
+18,MENTONE,Mentone Girls' Secondary College,19,6.6
+19,BRIGHTON EAST,Brighton Secondary College,20,7.0
+20,ASHWOOD,Ashwood High School,21,6.5
+21,WINDSOR,Prahran High School,21,5.7
+22,MONT ALBERT NORTH,Koonung Secondary College,23,5.6
+23,VERMONT,Vermont Secondary College,23,7.3
+24,FRANKSTON,Frankston High School,25,7.7
+25,CRANBOURNE EAST,Cranbourne East Secondary College,26,6.1
+26,BALLARAT EAST,Woodmans Hill Secondary College,27,6.8
+27,CAULFIELD,Glen Eira College,28,4.3
+28,BOX HILL,Box Hill High School,29,7.0
+29,DONCASTER,Doncaster Secondary College,29,6.2
+30,DROMANA,Dromana Secondary College,31,8.6
+31,BRUNSWICK,Brunswick Secondary College,32,5.7
+32,THORNBURY,Thornbury High School,33,6.6
+33,VIEWBANK,Viewbank College,33,6.6
+34,ST ALBANS,St Albans Secondary College,35,6.2
+35,RICHMOND,Richmond High School,36,4.3
+36,HAWTHORN EAST,Auburn High School,37,8.2
+37,PRINCES HILL,Princes Hill Secondary College,37,2.9
+38,WARRACKNABEAL,Warracknabeal Secondary College,39,8.4
+39,MOUNT WAVERLEY,Mount Waverley Secondary College,40,6.9
+40,RINGWOOD,Ringwood Secondary College,41,6.1
+41,SANDRINGHAM,Sandringham College,41,5.7
+42,KEW EAST,Kew High School,43,6.2
+43,CHARLTON,Charlton College,44,10.3
+44,CRANBOURNE,Lyndhurst Secondary College,45,7.6
+45,TRAFALGAR,Trafalgar High School,46,7.1
+46,STRATHMORE,Strathmore Secondary College,47,5.5
+47,ESSENDON,Buckley Park College,48,7.3
+48,BLACKBURN,Blackburn High School,49,6.4
+49,FLEMINGTON,Mount Alexander College,50,3.4
+50,ELWOOD,Elwood College,51,5.0
+51,NEWCOMB,Newcomb Secondary College,52,7.3
+52,NORTHCOTE,Northcote High School,53,6.9
+53,MONTMORENCY,Montmorency Secondary College,54,7.0
+54,WYCHEPROOF,Wycheproof P-12 College,55,7.9
+55,MORDIALLOC,Mordialloc College,56,7.4
+56,ALBERT PARK,Albert Park College,57,4.9
+57,LANGWARRIN,Elisabeth Murdoch College,57,8.0
+58,GLEN WAVERLEY,Highvale Secondary College,59,7.4
+59,BERWICK,Kambrya College,60,6.6
+60,ELTHAM,St Helena Secondary College,61,6.5
+61,MURTOA,Murtoa College,62,10.9
+62,DONALD,Donald High School,63,5.5
+63,CAIRNLEA,Victoria University Secondary College,64,6.9
+64,MANSFIELD,Mansfield Secondary College,65,8.0
+65,WARRNAMBOOL,Brauer College,66,6.4
+66,ARMSTRONG CREEK,Oberon High School,67,3.7
+67,HORSHAM,Horsham College,69,6.4
+68,MITCHAM,Mullauna College,69,6.4
+69,BALLARAT CENTRAL,Ballarat High School,71,6.6
+70,FITZROY NORTH,Fitzroy High School,72,5.1
+71,LEONGATHA,Leongatha Secondary College,73,6.8
+72,WERRIBEE,Werribee Secondary College,73,7.0
+73,BEAUMARIS,Beaumaris Secondary College,75,6.6
+74,CANTERBURY,Camberwell High School,75,5.2
+75,BERWICK,Berwick Secondary College,77,6.6
+76,MONBULK,Monbulk College,78,6.9
+77,BRIGHT,Bright P-12 College,79,13.0
+78,KEILOR DOWNS,Keilor Downs College,80,6.7
+79,CRANBOURNE NORTH,Alkira Secondary College,81,6.7
+80,MORDIALLOC,Parkdale Secondary College,81,7.4
+81,MULGRAVE,Wellington Secondary College,83,6.1
+82,KERANG,Kerang Technical High School,84,6.3
+83,BENTLEIGH EAST,Bentleigh Secondary College,85,6.7
+84,GLEN WAVERLEY,Brentwood Secondary College,85,7.4
+85,FOSTER,Foster Secondary College,87,7.1
+86,ELTHAM,Eltham High School,88,6.5
+87,ENDEAVOUR HILLS,Gleneagles Secondary College,88,7.1
+88,FRANKSTON,McClelland Secondary College,88,7.7
+89,CHELTENHAM,Cheltenham Secondary College,91,6.9
+90,SUNBURY,Sunbury Downs Secondary College,92,6.4
+91,NORTH GEELONG,North Geelong Secondary College,93,9.0
+92,TAYLORS LAKES,Taylors Lakes Secondary College,94,6.6
+93,TEMPLESTOWE LOWER,Templestowe College,95,6.5
+94,TORQUAY,Surf Coast Secondary College,96,8.0
+95,RINGWOOD,Norwood Secondary College,97,6.1
+96,DANDENONG NORTH,Lyndale Secondary College,98,6.3
+97,WANTIRNA,Wantlrna College,98,7.2
+98,DAYLESFORD,Daylesford Secondary College,100,8.9
