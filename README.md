@@ -1,22 +1,43 @@
-Project Proposal: Property Affordability in Melbourne, Victoria
+Project Proposal: Housing Affordability in Melbourne, Victoria
 
-In this project, we will delve into house price data in Melbourne, Victoria. Our 
-analysis aims to address several key questions:
+We start our presentation by looking at the growth of house prices in Melbourne from 2013 to 2023.
+We have decided to concentrate on just house prices in the whole of Melbourne so we can minimize our range of variables and define our analysis according to changes in prices over time for houses vs other variables.
 
-Price Trends Over Time:
-Analyse historical price data to understand trends for houses in Melbourne region.
-Determine if there are specific periods when house prices surge or decline. (how do we attribute the periods of surge to our conclusion? What caused the surge? Interest rate? Wage growth? population growth?)
+Our analysis aims to address several key questions:
 
-Suburb Popularity:
-Identify the most popular suburbs in Melbourne. (highest population growth)
+1)Population:
+Price increase vs Population growth from 2013 to 2023
+Does Population Growth affect Rising House Prices?
 
-Rental Price Impact:
-Explore the correlation between rental price fluctuations and housing market 
-trends.
+2)Interest Rates,
+Inflation(CPI) &
+Household Debt to income vs House Prices
+How does Interest Rates, Inflation & Household Debt to Income affect House Affordability"?
 
-Additional Research Questions:
-Investigate other factors contributing to the housing market’s growth as wage growth, interest rates, population growth and etc.
+3)School Rankings vs Suburb House Growth Prices
+How does the rank of schools within a suburb influence the annual growth rate of house prices? ​
+Is there a correlation between the per annum growth of house prices and the school rank of the suburb?
 
+4)Salary vs House Prices
+Does Salary affect House Prices?
+Is there correlation between Salary and House Prices?
 
-Possible Source: kaggle, domain, realestate, corelogic, ABS.
+5)Conclusion - Future House Price Affordability
+How will Housing Affordability be affected in the future?
 
+PLEASE REFER TO OUR TABLE OF CONTENT.
+
+Sources: 
+
+https://www.land.vic.gov.au/valuations/resources-and-reports/property-sales-statistics
+
+https://www.rba.gov.au/inflation-overview.html
+
+https://www.rba.gov.au/cash-rate-target-overview.html
+
+Victoria Population Link
+https://www.abs.gov.au/statistics/people/population/national-state-and-territory-population/latest-release
+
+https://bettereducation.com.au/
+
+https://www.abs.gov.au/statistics/labour/earnings-and-working-conditions/average-weekly-earnings-australia/nov-2023
